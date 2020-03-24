@@ -3,3 +3,4 @@ My stupid Boss.
 git is a free software.
 刚刚得我在G盘dev分支上做了修改不算废弃的 ，现在重新来过。
 第一步我在另一台电脑的dev分支上做了一些修改
+第二部rebase  在新电脑dev分支上进行rebase修改  廖雪峰
